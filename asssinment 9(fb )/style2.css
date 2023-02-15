@@ -1,0 +1,69 @@
+ *{
+    margin-top: 10px;
+ }
+ .center{
+    background-color: rgb(255, 255, 255);
+    width: 29%;
+    height: 75vh;
+    display: flex;
+    position: relative;
+    margin:auto;
+    box-shadow:2px 2px 2px 2px #7777;
+    border-radius: 8px; 
+}
+.signup{
+    margin-right: 5px;
+    margin-left: 5px;
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    place-items: center;
+}
+.signup>p{
+    padding-top: 0px;
+    font-size: 20px;
+}
+.style{
+    height: 30px;
+    width: 180px;
+    border-radius: 3px;
+    border-color: #7777;
+}
+.style2{
+    height: 30px;
+    width: 370px;
+    border-radius: 3px;
+    margin-top: 10px;
+    border-color: #7777;
+}
+.sel{
+    height: 30px;
+    width: 110px;
+    border-radius: 3px;
+    margin-top: 30px;
+    line-height: 0.1cm;
+    margin-left: 10px;
+}
+.time{
+    font-size: 12px;
+    line-height: 0.01cm;
+}
+.div{
+    display: inline;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 1px solid rgb(15, 15, 15);
+    margin-left: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px ;
+}
+.btnnn{
+    height: 40px;
+    margin-top: 30px;
+    width: 270px;
+    border-radius: 10px;
+    color: white;
+    background-color: rgb(70, 212, 70);
+    border-color: rgb(70, 212, 70);
+    margin-left: 60px;
+    cursor: pointer;
+}
